@@ -27,5 +27,5 @@ streamlit run app.py
 
 生成された後に`Download PDF`ボタンを押すとPDFをダウンロードできる
 
-## Example (generated articl)
+## Example (generated article)
 [pdf](example.pdf)
