@@ -29,3 +29,6 @@ streamlit run app.py
 
 ## Example (generated article)
 [pdf](example.pdf)
+
+## Reference
+https://github.com/langchain-ai/langgraph/blob/main/examples/storm/storm.ipynb
