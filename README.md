@@ -11,6 +11,10 @@ url : https://arxiv.org/abs/2402.14207
 - Python 3.10.2
 
 ## Useage
+.envファイルをSTORMディレクトリ直下に作成
+```
+OPENAI_API_KEY=your_key
+```
 ### pyenv
 ```
 git clone
