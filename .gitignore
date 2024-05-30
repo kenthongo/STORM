@@ -1,0 +1,6 @@
+.env
+venv
+.python-version
+/__pycache__
+*/__pycache__/*
+/graph_image
